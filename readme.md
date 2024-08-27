@@ -1,29 +1,34 @@
-## Sobre Mim
-Sou formado em **Gestão de Tecnologia da Informação** e pós-graduado em **Cibersegurança e Defesa Cibernética (MBA)**. Minha paixão por tecnologia começou cedo, aos 12 anos, quando comecei a ajudar colegas a personalizar HTML no Tumblr. Desde então, tenho me dedicado a explorar e criar soluções inovadoras no mundo da tecnologia.
+# Sobre Mim
 
-Atualmente, atuo como **indie hacker** e sou o fundador da **Gallifrey Sistemas**. Através da Gallifrey, desenvolvo e mantenho uma série de projetos tecnológicos que visam resolver problemas práticos e fornecer valor às pessoas e empresas.
+Sou formado em **Gestão de Tecnologia da Informação** e pós-graduado em **Cibersegurança e Defesa Cibernética (MBA)**. Minha paixão por tecnologia começou cedo com HTML no Tumblr, e desde então venho explorando e criando soluções inovadoras.
+
+Atualmente, sou **indie hacker** e fundador da **Gallifrey Sistemas**, onde desenvolvo projetos tecnológicos para resolver problemas práticos e fornecer valor às pessoas e empresas.
 
 ## Projetos
 
 ### Gallifrey
 
-Na [Gallifrey Sistemas](https://gallifrey.com.br), desenvolvo diversos sistemas e ferramentas, incluindo:
+Na [Gallifrey Sistemas](https://gallifrey.com.br), desenvolvo:
 
-- **Sistemas de Análise de Dados:** Soluções semelhantes ao Google Analytics para monitoramento e análise de métricas importantes.
-- **Sistema de Gestão:** Criado inicialmente para atender às necessidades pessoais, agora disponível para uma variedade de aplicações e usuários.
-- **Outros Softwares:** Diversos projetos em desenvolvimento que visam resolver problemas específicos e oferecer novas funcionalidades.
+- **Sistemas de Análise de Dados:** Soluções para monitoramento e análise de métricas de Websites e sistemas Web.
+- **Sistema de Gestão:** Ferramenta para gestão de empresas.
+- **Outros Softwares:** Projetos personalizados conforme a solicitação de clientes.
 
-## Tecnologias e Ferramentas
+### iBloodV2
 
-- **Linguagens de Programação:** Principalmente PHP, mas com experiência em outras linguagens, como JavaScript, Python e Ruby.
-- **Frameworks e Bibliotecas:** Conhecimento em frameworks como Codeigniter4, Symfony, Ruby on Rails e bibliotecas JavaScript modernas.
-- **Ferramentas de Desenvolvimento:** Git, Docker, CI/CD, entre outras práticas e ferramentas que facilitam o desenvolvimento e a entrega contínua de software.
-- **Segurança:** Experiência em práticas de segurança cibernética e defesa, aplicando conhecimentos adquiridos em minha pós-graduação.
+**iBloodV2** é um aplicativo brasileiro de código aberto para agendamento de doação de sangue, desenvolvido como projeto de TCC para minha graduação em Gestão de Tecnologia da Informação.
+
+## Tecnologias e Ferramentas que tenho Afinidade
+
+- **Linguagens de Programação:** PHP, JavaScript, Python, Ruby
+- **Frameworks e Bibliotecas:** Codeigniter4, Symfony, Ruby on Rails, bibliotecas JavaScript modernas
+- **Ferramentas de Desenvolvimento:** Git, Docker, CI/CD
+- **Segurança:** Práticas e conhecimentos em cibersegurança
 
 ## Contato
 
-Estou sempre aberto a novas colaborações e oportunidades de aprender e crescer na área de tecnologia. Sinta-se à vontade para me contactar para discutir projetos, parcerias ou qualquer outra questão tecnológica.
+Estou aberto a novas colaborações e oportunidades. Entre em contato para discutir projetos ou parcerias:
 
 - **Email:** [alberto@gallifrey.com.br](mailto:alberto@gallifrey.com.br)
-- **LinkedIn:** [Meu Perfil LinkedIn](https://www.linkedin.com/in/tardisblink)
+- **LinkedIn:** [Alberto Francisco](https://www.linkedin.com/in/tardisblink)
 - **Twitter:** [@tardisblink](https://twitter.com/tardisblink)
