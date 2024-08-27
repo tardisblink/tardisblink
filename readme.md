@@ -16,9 +16,9 @@ Na [Gallifrey Sistemas](https://gallifrey.com.br), desenvolvo:
 
 ### iBloodV2
 
-**iBloodV2** é um aplicativo brasileiro de código aberto para agendamento de doação de sangue, desenvolvido como projeto de TCC para minha graduação em Gestão de Tecnologia da Informação.
+[iBlood](https://gallifrey.com.br/negrelicelso/iBloodV2) é um aplicativo brasileiro de código aberto para agendamento de doação de sangue, desenvolvido como projeto de TCC para minha graduação em Gestão de Tecnologia da Informação. Você pode consultar o [Artigo Científico](https://www.editoracientifica.com.br/books/chapter/230613381) publicado sobre o Desenvolvimento desse Aplicativo
 
-## Tecnologias e Ferramentas que tenho Afinidade
+## Tecnologias e Ferramentas que tenho Afinidade e Domínio
 
 - **Linguagens de Programação:** PHP, JavaScript, Python, Ruby
 - **Frameworks e Bibliotecas:** Codeigniter4, Symfony, Ruby on Rails, bibliotecas JavaScript modernas
