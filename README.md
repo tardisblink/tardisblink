@@ -1,3 +1,4 @@
+## Sobre Mim
 Sou formado em **Gestão de Tecnologia da Informação** e pós-graduado em **Cibersegurança e Defesa Cibernética (MBA)**. Minha paixão por tecnologia começou cedo, aos 12 anos, quando comecei a ajudar colegas a personalizar HTML no Tumblr. Desde então, tenho me dedicado a explorar e criar soluções inovadoras no mundo da tecnologia.
 
 Atualmente, atuo como **indie hacker** e sou o fundador da **Gallifrey Sistemas**. Através da Gallifrey, desenvolvo e mantenho uma série de projetos tecnológicos que visam resolver problemas práticos e fornecer valor às pessoas e empresas.
