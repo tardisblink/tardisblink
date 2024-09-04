@@ -16,7 +16,7 @@ Na [Gallifrey Sistemas](https://gallifrey.com.br), desenvolvo:
 
 ### iBloodV2
 
-[iBlood](https://github.com.br/negrelicelso/iBloodV2) é um aplicativo brasileiro de código aberto para agendamento de doação de sangue, desenvolvido como projeto de TCC para minha graduação em Gestão de Tecnologia da Informação. Você pode consultar o [Artigo Científico](https://www.editoracientifica.com.br/books/chapter/230613381) publicado na época sobre o Desenvolvimento desse Aplicativo
+[iBlood](https://github.com/negrelicelso/iBloodV2) é um aplicativo brasileiro de código aberto para agendamento de doação de sangue, desenvolvido como projeto de TCC para minha graduação em Gestão de Tecnologia da Informação. Você pode consultar o [Artigo Científico](https://www.editoracientifica.com.br/books/chapter/230613381) publicado na época sobre o Desenvolvimento desse Aplicativo
 
 ## Contato
 
