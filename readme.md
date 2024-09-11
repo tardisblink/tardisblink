@@ -10,8 +10,8 @@ Atualmente, sou **indie hacker** e fundador da **Gallifrey Sistemas**, onde dese
 
 Na [Gallifrey Sistemas](https://gallifrey.com.br), desenvolvo:
 
-- **[Stats Rail](https://statsrail.gallifrey.com.br)** Soluções para monitoramento e análise de métricas de Websites e sistemas Web.
-- **[Sistema Comanda Rápida](https://comandarapida.com.br)** Ferramenta para gestão de empresas, com vendas, PDV, rotas, financeiro, fiscal e demais funcionalidades.
+- **[Stats Rail:](https://statsrail.gallifrey.com.br)** Solução para monitoramento e análise de métricas de Websites e sistemas Web focada na privacidade do usuário.
+- **[Sistema Comanda Rápida:](https://comandarapida.com.br)** Ferramenta para gestão de empresas, com vendas, PDV, rotas, financeiro, fiscal e demais funcionalidades.
 - **Softwares personalizados:** Projetos desenvolvidos conforme a solicitação de clientes.
 
 ### iBloodV2
