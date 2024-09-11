@@ -11,7 +11,7 @@ Atualmente, sou **indie hacker** e fundador da **Gallifrey Sistemas**, onde dese
 Na [Gallifrey Sistemas](https://gallifrey.com.br), desenvolvo:
 
 - **[Stats Rail:](https://statsrail.gallifrey.com.br)** Solução para monitoramento e análise de métricas de Websites e sistemas Web focada na privacidade do usuário.
-- **[Sistema Comanda Rápida:](https://comandarapida.com.br)** Ferramenta para gestão de empresas, com vendas, PDV, rotas, financeiro, fiscal e demais funcionalidades.
+- **[Sistema Comanda Rápida:](https://comandarapida.com.br)** Ferramenta para gestão de empresas, com PDV, rotas de entrega, financeiro, emissão de documentos fiscais, pedidos online e demais funcionalidades.
 - **Softwares personalizados:** Projetos desenvolvidos conforme a solicitação de clientes.
 
 ### iBloodV2
@@ -24,4 +24,3 @@ Estou aberto a novas colaborações e oportunidades. Entre em contato para discu
 
 - **Email:** [alberto@gallifrey.com.br](mailto:alberto@gallifrey.com.br)
 - **LinkedIn:** [Alberto Francisco](https://www.linkedin.com/in/tardisblink)
-- **Twitter:** [@tardisblink](https://twitter.com/tardisblink)
