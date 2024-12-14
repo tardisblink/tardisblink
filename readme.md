@@ -17,7 +17,7 @@ Na [Gallifrey Sistemas](https://gallifrey.com.br), desenvolvo:
 -  **[Brasil Buscador:](https://brasilbuscador.com.br)** Consultas gratuitas e rápidas de CEP, CNPJ, DDD, NCM, Feriados, FIPE, IBGE e muito mais. Encontre informações sobre clima, notícias e registros de domínio.
 - **Softwares personalizados:** Projetos desenvolvidos conforme a solicitação de clientes.
 
-#### **iBloodV2**
+#### **iBlood**
 
 [iBlood](https://github.com/negrelicelso/iBloodV2) é um aplicativo brasileiro de código aberto para agendamento de doação de sangue, desenvolvido como projeto de TCC para minha graduação em Gestão de Tecnologia da Informação. Você pode consultar o [Artigo Científico](https://www.editoracientifica.com.br/books/chapter/230613381) publicado na época sobre o Desenvolvimento desse Aplicativo.
 
@@ -47,7 +47,7 @@ At [Gallifrey Sistemas](https://gallifrey.com.br), I develop:
 -  **[Brasil Buscador:](https://brasilbuscador.com.br)** A fast and free search tool for CEP, CNPJ, DDD, NCM, holidays, FIPE, IBGE, and much more. Find information about weather, news, and domain registrations.
 - **Custom Software:** Projects developed based on customer requests.
 
-#### **iBloodV2**
+#### **iBlood**
 
 [iBlood](https://github.com/negrelicelso/iBloodV2) is a Brazilian open-source app for scheduling blood donations, developed as a graduation project for my degree in Information Technology Management. You can check the [Scientific Paper](https://www.editoracientifica.com.br/books/chapter/230613381) published at the time about the development of this app.
 
