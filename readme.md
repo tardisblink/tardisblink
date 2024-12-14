@@ -38,9 +38,9 @@ Currently, I am an **indie hacker** and the founder of **Gallifrey Systems**, wh
 
 ### **Projects**
 
-#### **Gallifrey Systems**
+#### **Gallifrey Sistemas**
 
-At [Gallifrey Systems](https://gallifrey.com.br), I develop:
+At [Gallifrey Sistemas](https://gallifrey.com.br), I develop:
 
 - **[Stats Rails:](https://statsrails.com)** A solution for website and web system metrics monitoring and analysis, focused on user privacy.
 - **[Sistema Comanda Rápida:](https://comandarapida.com.br)** A tool for business management, including POS, delivery routes, finance, tax document issuance, online orders, and more.
