@@ -1,4 +1,4 @@
-### 🇧🇷 **Sobre Mim**
+### 🇧🇷 **Sobre Mim** 🇧🇷
 
 🇺🇸 **Description also available in English below.**
 
@@ -30,7 +30,7 @@ Estou aberto a novas colaborações e oportunidades. Entre em contato para discu
 
 ---
 
-### 🇺🇸 **About Me**
+### 🇺🇸 **About Me** 🇺🇸
 
 I hold a degree in **Information Technology Management** and a postgraduate degree in **Cybersecurity and Cyber Defense (MBA)**. My passion for technology started when I was 12, with HTML on Tumblr, and since then I have been learning and creating.
 
