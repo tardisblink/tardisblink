@@ -1,4 +1,4 @@
-### 🇧🇷 **Sobre Mim **
+### 🇧🇷 **Sobre Mim**
 
 🇺🇸 **Description also available in English below.**
 
