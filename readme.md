@@ -1,6 +1,6 @@
 ### 🇧🇷 **Sobre Mim **
 
-(🇺🇸 **Description also available in English below.**)
+🇺🇸 **Description also available in English below.**
 
 Sou formado em **Gestão de Tecnologia da Informação** e pós-graduado em **Cibersegurança e Defesa Cibernética (MBA)**. Minha paixão por tecnologia começou aos 12, com HTML no Tumblr, e desde então venho aprendendo e criando.
 
