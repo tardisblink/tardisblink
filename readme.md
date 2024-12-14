@@ -12,7 +12,7 @@ Na [Gallifrey Sistemas](https://gallifrey.com.br), desenvolvo:
 
 - **[Stats Rails:](https://statsrails.com)** Solução para monitoramento e análise de métricas de Websites e sistemas Web focada na privacidade do usuário.
 - **[Sistema Comanda Rápida:](https://comandarapida.com.br)** Ferramenta para gestão de empresas, com PDV, rotas de entrega, financeiro, emissão de documentos fiscais, pedidos online e demais funcionalidades.
--  **[Brasil Buscador:](https://brasilbuscador.com.br)** Brasil Buscador oferece consultas gratuitas e rápidas de CEP, CNPJ, DDD, NCM, Feriados, FIPE, IBGE e muito mais. Encontre informações sobre clima, notícias e registros de domínio.
+-  **[Brasil Buscador:](https://brasilbuscador.com.br)** Consultas gratuitas e rápidas de CEP, CNPJ, DDD, NCM, Feriados, FIPE, IBGE e muito mais. Encontre informações sobre clima, notícias e registros de domínio.
 - **Softwares personalizados:** Projetos desenvolvidos conforme a solicitação de clientes.
 
 ### iBloodV2
