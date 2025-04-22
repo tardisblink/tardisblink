@@ -1,3 +1,5 @@
+![Tardisblink's GitHub stats]([https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true](https://github-readme-stats-93o6.vercel.app/api?username=tardisblink&hide_rank=true&show_icons=true&locale=pt-br&theme=dark&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage))
+
 ### 🇧🇷 **Sobre Mim**
 
 Sou formado em **Gestão de Tecnologia da Informação** e pós-graduado em **Cibersegurança e Defesa Cibernética (MBA)**. Minha paixão por tecnologia começou aos 12, com HTML no Tumblr, e desde então venho aprendendo e criando.
