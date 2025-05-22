@@ -2,7 +2,16 @@
 
 Sou formado em **Gestão de Tecnologia da Informação** e pós-graduado em **Cibersegurança e Defesa Cibernética (MBA)**. Minha paixão por tecnologia começou aos 12, editando o HTML do Tumblr de amigos, e desde então venho aprendendo e criando.
 
-Atualmente, sou **indie hacker** e fundador da **[Gallifrey Sistemas](https://gallifrey.com.br)**, onde desenvolvo ferramentas para resolver problemas práticos do dia a dia e fornecer uma gestão eficiente e moderna para empresas.
+
+Atuo como **indie hacker**, desenvolvendo sistemas web, automações e soluções personalizadas. Trabalho com PHP (CodeIgniter4, Symfony), JavaScript, Python e utilizo ferramentas como Git, PuTTY, Docker, Redis, Nginx e MySQL. 
+
+Projetos desenvolvidos (todos podem ser testados gratuitamente): 
+
+Comanda Rápida: Sistema de gestão para pequenas e médias empresas, oferecendo controle de estoque, vendas, finanças e pedidos. 
+
+Stats Rails: Plataforma de analytics com foco em privacidade, fornecendo monitoramento e relatórios detalhados conforme LGPD/GDPR. 
+
+Brasil Buscador: Plataforma que centraliza consultas gratuitas e rápidas de informações essenciais no Brasil, como CEP, CNPJ, NCM, feriados e dados do IBGE, além de reunir as notícias mais recentes
 
 
 ### ⚒️ **Habilidades**
