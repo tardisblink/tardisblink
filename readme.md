@@ -7,11 +7,11 @@ Atuo como **indie hacker**, desenvolvendo sistemas web, automações e soluçõe
 
 Projetos desenvolvidos (todos podem ser testados gratuitamente): 
 
-Comanda Rápida: Sistema de gestão para pequenas e médias empresas, oferecendo controle de estoque, vendas, finanças e pedidos. 
+<a href='https://comandarapida.com.br'>Comanda Rápida</a>: Sistema de gestão para pequenas e médias empresas, oferecendo controle de estoque, vendas, finanças e pedidos. 
 
-Stats Rails: Plataforma de analytics com foco em privacidade, fornecendo monitoramento e relatórios detalhados conforme LGPD/GDPR. 
+<a href='https://statsrails.com'>Stats Rails</a>: Plataforma de analytics com foco em privacidade, fornecendo monitoramento e relatórios detalhados conforme LGPD/GDPR. 
 
-Brasil Buscador: Plataforma que centraliza consultas gratuitas e rápidas de informações essenciais no Brasil, como CEP, CNPJ, NCM, feriados e dados do IBGE, além de reunir as notícias mais recentes
+<a href='https://brasilbuscador.com.br'>Brasil Buscador</a>: Plataforma que centraliza consultas gratuitas e rápidas de informações essenciais no Brasil, como CEP, CNPJ, NCM, feriados e dados do IBGE, além de reunir as notícias mais recentes
 
 
 ### ⚒️ **Habilidades**
