@@ -1,6 +1,6 @@
 ### 🇧🇷 **Sobre Mim**
 
-Sou formado em **Gestão de Tecnologia da Informação** e pós-graduado em **Cibersegurança e Defesa Cibernética (MBA)**. Minha paixão por tecnologia começou aos 12, editando o HTML do Tumblr de amigos, e desde então venho aprendendo e criando.
+Sou formado em **Gestão de Tecnologia da Informação** e pós-graduado em **Cibersegurança e Defesa Cibernética (MBA)**. 
 
 Projetos desenvolvidos por mim (todos podem ser testados gratuitamente): 
 
