@@ -2,7 +2,9 @@
 
 Sou formado em **Gestão de Tecnologia da Informação** e pós-graduado em **Cibersegurança e Defesa Cibernética (MBA)**. 
 
-Projetos desenvolvidos por mim (todos podem ser testados gratuitamente): 
+### 👨‍💻 **Meus Projetos**
+
+Projetos que desenvolvi que podem ser testados gratuitamente: 
 
 <a href='https://comandarapida.com.br'>Comanda Rápida</a>: Sistema de gestão para pequenas e médias empresas, oferecendo controle de estoque, vendas, finanças e pedidos. 
 
