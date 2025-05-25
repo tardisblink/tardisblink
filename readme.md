@@ -2,10 +2,7 @@
 
 Sou formado em **Gestão de Tecnologia da Informação** e pós-graduado em **Cibersegurança e Defesa Cibernética (MBA)**. Minha paixão por tecnologia começou aos 12, editando o HTML do Tumblr de amigos, e desde então venho aprendendo e criando.
 
-
-Atuo como **indie hacker**, desenvolvendo sistemas web, automações e soluções personalizadas. Trabalho com PHP (CodeIgniter4, Symfony), JavaScript, Python e utilizo ferramentas como Git, PuTTY, Docker, Redis, Nginx e MySQL. 
-
-Projetos desenvolvidos (todos podem ser testados gratuitamente): 
+Projetos desenvolvidos por mim (todos podem ser testados gratuitamente): 
 
 <a href='https://comandarapida.com.br'>Comanda Rápida</a>: Sistema de gestão para pequenas e médias empresas, oferecendo controle de estoque, vendas, finanças e pedidos. 
 
