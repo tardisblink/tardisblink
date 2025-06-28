@@ -2,7 +2,7 @@
 
 Atuo como Indie Hacker, sou formado em **Gestão de Tecnologia da Informação** e pós-graduado em **Cibersegurança e Defesa Cibernética (MBA)**. 
 
-### 👨‍💻 **Meus Projetos**
+### 👨‍💻 **Meus Projetos Privados**
 
 Projetos que desenvolvi que podem ser testados gratuitamente: 
 
