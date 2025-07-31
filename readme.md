@@ -6,11 +6,11 @@ Atuo como Indie Hacker, sou formado em **Gestão de Tecnologia da Informação**
 
 Projetos que desenvolvi que podem ser testados gratuitamente: 
 
-<a href='https://comandarapida.com.br'>Comanda Rápida</a>: Sistema de gestão para pequenas e médias empresas, oferecendo controle de estoque, vendas, finanças e pedidos. 
-
 <a href='https://statsrails.com'>Stats Rails</a>: Plataforma de analytics com foco em privacidade, fornecendo monitoramento e relatórios detalhados conforme LGPD/GDPR. 
 
 <a href='https://brasilbuscador.com.br'>Brasil Buscador</a>: Plataforma que centraliza consultas gratuitas e rápidas de informações essenciais no Brasil, como CEP, CNPJ, NCM, feriados e dados do IBGE, além de reunir as notícias mais recentes
+
+<a href='https://comandarapida.com.br'>Comanda Rápida</a>: Sistema de gestão para pequenas e médias empresas, oferecendo controle de estoque, vendas, finanças e pedidos. 
 
 ### 📊 **Estatísticas**
 
